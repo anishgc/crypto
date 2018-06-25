@@ -32,9 +32,8 @@ void main()
     }
     }
     getch();
-}/*
+}
 
-    Edit
 
         printf("\n enter the text for decryption = ");
      gets(ct);
@@ -54,4 +53,3 @@ void main()
     getch();
 }
 
-*/
