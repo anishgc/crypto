@@ -34,7 +34,7 @@ void main()
     getch();
 }/*
 
-     printf("\n enter the text for decryption = ");
+        printf("\n enter the text for decryption = ");
      gets(ct);
      for(i=0;i<strlen(ct);i++)
 
